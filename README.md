@@ -99,12 +99,6 @@ In our Bank Loan Report project, we aim to visually represent critical loan-rela
 
 These diverse chart types will enhance our ability to visualize and communicate loan-related insights effectively, supporting data-driven decisions and strategic planning within our lending operations.
 
-## Dashboard 3: Details
-
-### Objective
-
-The Details Dashboard aims to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance, offering a holistic snapshot of key loan-related metrics and data points.
-
 ---
 
 This README file outlines the structure and objectives of our Bank Loan Report, detailing the KPIs and chart types used in each dashboard. It serves as a guide for understanding how we monitor, assess, and visualize our lending activities to make informed, data-driven decisions.
