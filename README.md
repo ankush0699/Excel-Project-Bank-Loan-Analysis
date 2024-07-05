@@ -99,13 +99,9 @@ In our Bank Loan Report project, we aim to visually represent critical loan-rela
 
 These diverse chart types will enhance our ability to visualize and communicate loan-related insights effectively, supporting data-driven decisions and strategic planning within our lending operations.
 
----
+
 ##Domain Knowledge:
 
-This README file outlines the structure and objectives of our Bank Loan Report, detailing the KPIs and chart types used in each dashboard. It serves as a guide for understanding how we monitor, assess, and visualize our lending activities to make informed, data-driven decisions.
-
-
-DOMAIN KNOWLEDGE
 Bank loans are a crucial financial tool that enables individuals and businesses to achieve their goals and manage financial needs. However, it's essential for borrowers to understand the terms, costs, and responsibilities associated with loans to make informed financial decisions.
 Banks collect loan data through various channels and processes, including:
 Loan Applications: When individuals or businesses apply for loans, they submit detailed applications that include personal and financial information. This data is collected electronically or in paper form.
@@ -158,3 +154,8 @@ Profitability Analysis: Banks assess the profitability of their loan portfolios 
 Market Research: Data analysis helps banks understand market trends, competitive landscape, and customer demand. This information guides product development and market expansion strategies.
 Credit Risk Management: Banks continuously monitor and manage credit risk associated with their loans. Data analysis helps in setting risk management strategies, provisioning for potential losses, and stress testing loan portfolios.
 Customer Retention: Banks use data analysis to identify opportunities for retaining existing customers, such as offering loan refinancing options or additional financial products
+
+
+---
+
+This README file outlines the structure and objectives of our Bank Loan Report, detailing the KPIs and chart types used in each dashboard. It serves as a guide for understanding how we monitor, assess, and visualize our lending activities to make informed, data-driven decisions.
